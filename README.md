@@ -1,0 +1,4 @@
+Exercises
+=========
+
+Code and rapport.
